@@ -13,11 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <노션 이력서 바로가기:https://www.notion.so/31f92dfd9df34dda8722e530d32ac8d9 >
+
 # 이력서
-
----
-
-![갠.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ddef0183-b5de-42a4-a177-e0bd31b82433/%EA%B0%A0.jpg)
+<br>
 
 # 김준년 | 백엔드 개발자
 
